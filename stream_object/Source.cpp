@@ -32,7 +32,7 @@ int main()
 	
 	// Let's the code pause
 	system("pause");
-	// Exit Main function
+	// Exit Main function 
 	return 0;
 }
 
